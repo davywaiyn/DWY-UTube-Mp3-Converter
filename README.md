@@ -1,8 +1,7 @@
 # DWY-UTube-Mp3-Converter
 Download YouTube video as mp3
 
-Developed by: Davy Wai Yan
-Password : dwy123
+Developed by: Davy Wai Yan | Password : dwy123
 =======================================
 
 |About Software|
